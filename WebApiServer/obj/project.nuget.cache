@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9rL3HGsV02ix4UpXt08ezo4gi7CpmNN1K3YVCtgmaba6B2vroLPNmL2uGgHjNZjXQda7hNlDjlZiT4nkk/hIGA==",
+  "success": true,
+  "projectFilePath": "D:\\Тестовые задания\\TexodTehnologies\\TexodTehnologies\\WebApiServer\\WebApiServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TanyaNout\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

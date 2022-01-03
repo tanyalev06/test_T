@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3678a172-23eb-463d-bd4c-f2fc18cdd4cf": {
+      "ProjectGuid": "3678a172-23eb-463d-bd4c-f2fc18cdd4cf",
+      "DisplayName": "WebApiServer",
+      "ColorIndex": 0
+    },
+    "b7aa9ed0-98e8-48b6-87bc-3a03073833db": {
+      "ProjectGuid": "b7aa9ed0-98e8-48b6-87bc-3a03073833db",
+      "DisplayName": "WebApiClient",
+      "ColorIndex": 1
+    },
+    "7bec267d-8279-4f93-bde9-e34d9345c3e6": {
+      "ProjectGuid": "7bec267d-8279-4f93-bde9-e34d9345c3e6",
+      "DisplayName": "WpfApp1",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
